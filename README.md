@@ -1,7 +1,5 @@
-# TestRun
-This is Sayed's first git project.
-He has learnt a lot form the Odin project.
 
-# Odin Project
-Odin project is awesome. It's all about self research and it's definitely working
-
+# Login
+This is the login part of the project.
+It has been added from the login branch.
+The changes are only available to this branch.
